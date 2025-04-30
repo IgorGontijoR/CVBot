@@ -1,0 +1,26 @@
+{
+  "name": "cvbot",
+  "version": "1.0.0",
+  "description": "Bot avaliador de currículos.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorGontijoR/CVBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorGontijoR/CVBot/issues"
+  },
+  "homepage": "https://github.com/IgorGontijoR/CVBot#readme",
+  "dependencies": {
+    "@prisma/client": "^6.7.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "prisma": "^6.7.0"
+  }
+}
